@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #cccccc;
+}
+div{
+	background-color:white;
+}
+.heading{
+	text-align:center;
+}
